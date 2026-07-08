@@ -1,8 +1,12 @@
 # bertrand
 bertrand
+
+Cooper Union Summer STEM 
+Arduinos
 w/ Nick and AJ
 
-Log (* = added to this repo)
+Log 
+(* = added to this repo)
 
 7/6
 - Blink
@@ -10,3 +14,4 @@ Log (* = added to this repo)
 7/7
 - Traffic Light & Sirens
 - Morse Code*
+- Blink*
